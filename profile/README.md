@@ -1,7 +1,6 @@
-# .github
-Scientific group of Ekaterina Brui from ITMO.
+# Scientific group of Ekaterina Brui from ITMO.
 
-Research team members:
+## Research team members:
 - Ekaterina Brui
 - Waleed Alhaidri
 - Zilia Badrieva
@@ -11,6 +10,6 @@ Research team members:
 - Nikita Babich
 - Anna Konanykhina
 
-Projects being developed by our group:
+## Projects being developed by our group:
 - Development of software for a 0.07 T tomograph
 - Generation of realistic physically based synthetic magnetic resonance imaging data ([Scientific research in the field of artificial intelligence](https://github.com/MRI-algorithms-and-methods/Scientific-research-in-the-field-of-artificial-intelligence/README.md))
