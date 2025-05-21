@@ -1,8 +1,8 @@
-# Scientific group of Ekaterina Brui from ITMO.
+# Research group of Ekaterina Brui (ITMO University).
 
 ## Research team members:
 - Ekaterina Brui
-- Waleed Alhaidri
+- Walid Al-haidri
 - Zilia Badrieva
 - Anatolii Levchuk
 - Ksenia Belousova
